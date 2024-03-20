@@ -39,7 +39,7 @@ export default function Contact() {
                     <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                       PHONE
                     </h2>
-                    <p className="leading-relaxed text-white">+31 6355677</p>
+                    <p className="leading-relaxed text-white">+31 6 27130355</p>
                   </div>
                 </div>
               </div>
