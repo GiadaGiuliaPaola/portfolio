@@ -19,7 +19,7 @@ export default function Projects() {
                              className="w-full h-full bg-cover rounded"/> 
                     </a> 
                 </div> 
-                <div className="flex flex-col align-center mx-auto gap-4 justify-center flex-1"> 
+                <div className="flex flex-col items-center justify-center mx-auto gap-4 justify-center flex-1"> 
                     <h2 className="font-bold text-3xl text-center text-gray-600 leading-relaxed"> 
                         <a className="hover:underline"
                            rel="noreferrer"
@@ -47,7 +47,7 @@ export default function Projects() {
                              className="w-full h-full bg-cover rounded" /> 
                     </a> 
                 </div> 
-                <div className="flex flex-col align-center mx-auto gap-4 justify-center flex-1"> 
+                <div className="flex flex-col items-center justify-center mx-auto gap-4 justify-center flex-1"> 
                     <h2 className="font-bold text-3xl text-center text-gray-600 leading-relaxed"> 
                         <a className="hover:underline" 
                         rel="noreferrer"
@@ -77,7 +77,7 @@ export default function Projects() {
                              className="w-full h-full bg-cover rounded"/> 
                     </a> 
                 </div> 
-                <div className="flex flex-col align-center mx-auto gap-4 justify-center flex-1 lg:max-w-35px"> 
+                <div className="flex flex-col items-center justify-center mx-auto gap-4 justify-center flex-1 lg:max-w-35px"> 
                     <h2 className="font-bold text-3xl text-center text-gray-600 leading-relaxed"> 
                         <a className="hover:underline"
                            rel="noreferrer"
@@ -86,7 +86,7 @@ export default function Projects() {
                             Superpy Backend 
                         </a> 
                     </h2> 
-                    <p className="text-center lg:text-left text-gray-600 leading-relaxed"> 
+                    <p className="text-center justify-center lg:text-left text-gray-600 leading-relaxed"> 
                         This is a project built on Python which allow you to buy and check item from a personalize command line. 
                     </p> 
                 </div> 
@@ -107,7 +107,7 @@ export default function Projects() {
                              className="w-full h-full bg-cover rounded" /> 
                     </a> 
                 </div> 
-                <div className="flex flex-col align-center mx-auto gap-4 justify-center flex-1"> 
+                <div className="flex flex-col items-center justify-center mx-auto gap-4 justify-center flex-1"> 
                     <h2 className="font-bold text-3xl text-center text-gray-600 leading-relaxed"> 
                         <a className="hover:underline" 
                         rel="noreferrer"

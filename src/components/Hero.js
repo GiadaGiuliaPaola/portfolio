@@ -23,7 +23,7 @@ export default function Hero() {
               <img
                   src={process.env.PUBLIC_URL + '/wanakame.jpg'}
                   alt="Author Foto"
-                  className="w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-full object-cover shadow-2xl"
+                  className="w-64 h-64 md:w-80  md:h-80 lg:w-96 lg:h-96 rounded-full object-cover shadow-2xl"
               />
           </div>
       </section>
