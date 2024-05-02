@@ -81,7 +81,7 @@ export default function Contact() {
                   Send Me an Email!
                 </button>
                 <a
-                  href="/Giada Tamassia Full-Stack Developer.pdf"
+                  href="/Resume Giada Tamassia.pdf"
                   download="public/Giada Tamassia Full-Stack Developer.pdf"
                   className="text-white bg-indigo-500 border-0 py-2 mt-3 py-2 px-6 focus:outline-none hover:bg-orange-600 rounded text-lg flex justify-center items-center"
                   style={{ textDecoration: "none" }}
